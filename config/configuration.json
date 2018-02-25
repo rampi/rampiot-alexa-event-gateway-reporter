@@ -1,0 +1,4 @@
+{
+    "mqttHost": "mqtt.rampiot.com",
+    "mqttPort": 8883
+}

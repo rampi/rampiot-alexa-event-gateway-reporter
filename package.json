@@ -1,0 +1,14 @@
+{
+  "name": "rampiot-alexa-event-gateway-reporter",
+  "version": "1.0.0",
+  "description": "This function subscribe to device event topic and waits for event for report on alexa gateway",
+  "main": "index.js",
+  "author": "Robinson Mesino",
+  "license": "ISC",
+  "dependencies": {
+    "json-hash": "^1.2.0",
+    "mqtt": "^2.15.2",
+    "q": "^1.5.1",
+    "request": "^2.83.0"
+  }
+}
